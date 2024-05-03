@@ -1,0 +1,12 @@
+{
+  "item.dune_tales.scimitar": "Скимитар Песчаного Воина",
+  "item.dune_tales.dune_essence": "Эссенция Дюны",
+  "item.dune_tales.dune_light": "Свет Дюны",
+  "item.dune_tales.dune_soul": "Душа Дюны",
+  "item.dune_tales.dune_shard": "Осколок Дюны",
+  "entity.dune_tales.sandwarrior": "Песчаный воин",
+
+  "tooltip.dune_tales.dune_light.tooltip": "Тёплый свет из пустыни, видимый только в ночное время суток",
+
+  "itemgroup.dunes": "Dune Tales"
+}

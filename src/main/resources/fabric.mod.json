@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "dune_tales",
+	"version": "${version}",
+	"name": "Dune Tales",
+	"description": "Small mod centered around the desert",
+	"authors": [
+		"BaconDragon_"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/dune_tales/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"name.mod.ModCore"
+		],
+		"client": [
+			"name.mod.ModClient"
+		],
+		"fabric-datagen": [
+			"name.mod.ModDataGenerator"
+		]
+	},
+	"mixins": [
+		"mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

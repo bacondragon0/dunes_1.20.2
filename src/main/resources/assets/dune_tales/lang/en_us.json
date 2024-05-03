@@ -1,0 +1,12 @@
+{
+  "item.dune_tales.scimitar": "Sandwarrior's Scimitar",
+  "item.dune_tales.dune_essence": "Essence of the Dune",
+  "item.dune_tales.dune_light": "Dune Light",
+  "item.dune_tales.dune_soul": "Dune Soul",
+  "item.dune_tales.dune_shard": "Dune Shard",
+  "entity.dune_tales.sandwarrior": "Sand Warrior",
+
+  "tooltip.dune_tales.dune_light.tooltip": "A warm light from the desert, visible during night-time",
+
+  "itemgroup.dunes": "Dune Tales"
+}
